@@ -1,4 +1,5 @@
 %  Kirchhoff migration and d i f f r a c t i o n . ( t u t o r i a l , slow )
+%test test 1
 %
 v=2000;
 data=zeros(100,100);data(50,50)=1;
